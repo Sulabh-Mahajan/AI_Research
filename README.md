@@ -1,3 +1,3 @@
-# AI_Research
+# Generative_AI_Research_s4928296
 
-put some stuff - all data for the project
+The Research Work for the project is divided in a Structure
